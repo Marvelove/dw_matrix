@@ -1,2 +1,3 @@
-# dw_matrix
-Five-day challenge project from workshops "Matrix - transformation"
+# Workshops
+
+Here there will appear codes from the five-day challenge workshops "Matrix - transformation"
